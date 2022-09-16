@@ -1,0 +1,3 @@
+export const LOADING_SIGNIN = 'LOADING_SIGNIN';
+export const SUCCESS_SIGNIN = 'SUCCESS_SIGNIN';
+export const FAILED_SIGNIN = 'FAILED_SIGNIN';
